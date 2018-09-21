@@ -1,9 +1,9 @@
 /*----------------------------------------------------------
  *				HTBLA-Leonding / Class: 2DHIF
  * ---------------------------------------------------------
- * Exercise Number: 0
+ * Exercise Number: 1
  * Title:			Hello World
- * Author:			Leon Nepelius
+ * Author:		Leon Nepelius
  * ----------------------------------------------------------
  * Description:
  * Print Hello World
